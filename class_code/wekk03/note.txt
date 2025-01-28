@@ -1,2 +1,2 @@
 npm init -y
-npm i express npdemon dotenv
+npm i express nodemon dotenv
