@@ -1,4 +1,3 @@
-// src/components/About.js
 import profile from "../assets/logo-removebg-preview.png";
 import React from "react";
 

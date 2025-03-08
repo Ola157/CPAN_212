@@ -1,4 +1,3 @@
-// src/data.js
 import project1 from "./assets/project_1.gif";
 import project2 from "./assets/project_2.webp";
 import project3 from "./assets/project_3.gif";

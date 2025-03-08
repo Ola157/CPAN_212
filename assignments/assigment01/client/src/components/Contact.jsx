@@ -1,5 +1,3 @@
-// src/components/Contact.js
-
 import React from "react";
 
 export default function Contact() {
@@ -14,17 +12,6 @@ export default function Contact() {
       )
       .join("&");
   }
-
-  // function handleSubmit(e) {
-  //   e.preventDefault();
-  //   fetch("/", {
-  //     method: "POST",
-  //     headers: { "Content-Type": "application/x-www-form-urlencoded" },
-  //     body: encode({ "form-name": "contact", name, email, message }),
-  //   })
-  //     .then(() => alert("Message sent!"))
-  //     .catch((error) => alert(error));
-  // }
 
   function handleSubmit(e) {
     e.preventDefault();
