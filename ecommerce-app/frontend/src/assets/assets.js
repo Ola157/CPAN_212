@@ -56,7 +56,6 @@ import p_img52 from './p_img52.png'
 
 
 import logo from './logo.png'
-import logo2 from './logo2.png'
 import hero_img from './hero_img.png'
 import cart_icon from './cart_icon.png'
 import bin_icon from './bin_icon.png'
@@ -77,8 +76,6 @@ import cross_icon from './cross_icon.png'
 
 export const assets = {
     logo,
-    logo2,
-    
     hero_img,
     cart_icon,
     dropdown_icon,
@@ -697,6 +694,18 @@ export const products = [
         subCategory: "Bottomwear",
         sizes: ["S", "M", "L", "XL"],
         date: 1716666245448, bestseller: false
+    },
+    {
+        _id: "aaaby",
+        name: "Women Zip-Front Relaxed Fit Jacket",
+        description: "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+        price: 320,
+        image: [p_img51],
+        category: "Women",
+        subCategory: "Winterwear",
+        sizes: ["S", "M", "L", "XL"],
+        date: 1716667345448,
+        bestseller: false
     },
     {
         _id: "aaabz",
